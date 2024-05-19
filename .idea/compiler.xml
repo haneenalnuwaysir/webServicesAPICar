@@ -15,7 +15,7 @@
     <bytecodeTargetLevel>
       <module name="boogle-maps" target="11" />
       <module name="eureka" target="11" />
-      <module name="pricing-service" target="11" />
+      <module name="pricing-service" target="17" />
       <module name="vehicles-api" target="11" />
     </bytecodeTargetLevel>
   </component>
