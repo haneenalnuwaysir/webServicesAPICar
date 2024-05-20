@@ -12,12 +12,6 @@
         <module name="boogle-maps" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="boogle-maps" target="11" />
-      <module name="eureka" target="11" />
-      <module name="pricing-service" target="17" />
-      <module name="vehicles-api" target="11" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

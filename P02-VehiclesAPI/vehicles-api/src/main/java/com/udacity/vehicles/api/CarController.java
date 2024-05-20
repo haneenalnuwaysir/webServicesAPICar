@@ -101,7 +101,7 @@ class CarController {
         Resource<Car> resource = assembler.toResource(this.carService.update(car));
         return ResponseEntity.ok(resource);
     }
-
+//
     /**
      * Removes a vehicle from the system.
      * @param id The ID number of the vehicle to remove.
